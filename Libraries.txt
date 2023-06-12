@@ -1,0 +1,6 @@
+pip install os 
+pip install pytube
+pip install tqdm
+pip install time
+pip install colored 
+pip install pyfiglet
