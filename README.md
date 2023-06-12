@@ -8,4 +8,5 @@ from her https://github.com/yazeedb95/YazLoader.git
 1- Make sure you have Python installed on your computer.\
 2- Make sure you have installed the libraries in the libraries file that came with the files.\
 3- Run the min file through the cmd or from any text editor by typing this command 'py main.py'.\
-4- Before running the file, make sure that you are on the same path as the files.
+4- Put the link of the video you want to download or the link of the playlist you want to download, then press Enter.\
+5- Before running the file, make sure that you are on the same path as the files.
